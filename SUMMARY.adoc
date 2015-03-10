@@ -1,12 +1,9 @@
 = Summary
 
 . link:introduction/index.adoc[Introduction]
-
 .. link:introduction/motivation.adoc[Motivation]
-
-=== Goals
-
-=== Rest of the document
+.. link:introduction/goals.adoc[Goals]
+.. link:introduction/rest_of_the_document[Rest of the document]
 
 == State of the art
 
