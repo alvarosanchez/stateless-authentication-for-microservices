@@ -1,8 +1,8 @@
 = Summary
 
-== link:introduction[Introduction]
+== link:introduction/index.adoc[Introduction]
 
-=== Motivation
+=== link:introduction/motivation.adoc[Motivation]
 
 === Goals
 
