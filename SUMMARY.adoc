@@ -1,29 +1,24 @@
 = Summary
 
 . link:README.adoc[Introduction]
-.. Motivation
+.. link:motivation.adoc[Motivation]
 .. Goals
 .. Rest of the document
-
 . State of the art
 .. Introduction
 .. Similar solution #1
 .. Similar solution #2
 .. Comparision
-
 . Analysis, design, development and deployment
 .. Introduction
 .. Analysis
 .. Design
 .. Development
 .. Deployment
-
 . Evaluation
-
 . Planning and budget
 .. Planning
 .. Budget
-
 . Conclusions and future improvements
 .. Conclusions
 ... Product
