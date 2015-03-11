@@ -1,7 +1,7 @@
 = Summary
 
 . link:README.adoc[Introduction]
-.. link:motivation.adoc[Motivation]
+.. link:introduction/motivation.adoc[Motivation]
 .. Goals
 .. Rest of the document
 . State of the art
