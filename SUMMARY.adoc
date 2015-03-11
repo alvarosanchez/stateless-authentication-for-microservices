@@ -1,5 +1,4 @@
 = Summary
 
 . link:README.adoc[Introduction]
-. link:README.adoc[Introduction]
 
