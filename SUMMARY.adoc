@@ -1,4 +1,6 @@
 = Summary
 
+. link:README.adoc[Introduction]
+.. Goals
 . Introduction
 
