@@ -1,9 +1,0 @@
-= Summary
-
-. link:README.adoc[Introduction]
-. link:introduction/motivation.adoc[Motivation]
-. link:README.adoc[Introduction]
-. link:introduction/index.adoc[Introduction]
-.. link:introduction/goals.adoc[Goals]
-.. link:introduction/rest_of_the_document[Rest of the document]
-
